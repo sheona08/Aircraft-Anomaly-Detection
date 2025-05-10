@@ -1,0 +1,6 @@
+time,vibration,temperature,oil_pressure,battery_voltage,circuit_breaker_load,fuel_imbalance,wing_stress,autopilot_status
+0,2.1,68,55,12.5,30,0.2,0.5,stable
+1,2.5,69,53,12.4,32,0.3,0.6,stable
+2,2.9,70,52,12.1,35,0.4,0.7,unstable
+3,6.2,71,40,11.8,45,1.2,1.1,unstable
+4,2.4,70,50,12.3,28,0.3,0.5,stable
